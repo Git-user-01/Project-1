@@ -1,0 +1,5 @@
+Table1.xlsx - citation: U.S. Bureau of Economic Analysis, "SAINC30 Economic profile" (accessed Thursday, March 7, 2024) 
+
+Table1.csv - cleaned and converted Table1.xlsx into a 'csv' file 
+
+ 
