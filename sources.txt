@@ -1,5 +1,17 @@
 Table1.xlsx - citation: U.S. Bureau of Economic Analysis, "SAINC30 Economic profile" (accessed Thursday, March 7, 2024) 
 
-Table1.csv - cleaned and converted Table1.xlsx into a 'csv' file 
+Table1.csv - cleaned, modified and converted Table1.xlsx into a 'csv' file 
 
- 
+Table2.xlsx - citation: U.S. Bureau of Labor Statistics, "Consumer Price Index for All Urban Consumers (CPI-U)" (accessed Thursday, March 7 2024)   
+
+Table2.csv - cleaned, modified and converted Table2.xlsx into a 'csv' file 
+
+Table3.xlsx - citation: U.S. Census Bureau, International Programs Center, International Database (accessed Thursday, March 7, 2024) 
+
+Table3.csv - cleaned, modified and converted Table3.xlsx into a 'csv' file 
+
+cpiai.txt - modified version of - citation: jeffkaufman (accessed Saturday, March 9 2024) "cpicsv" electronic resource (GitHub): data, "cpiai.txt"
+
+Table6.xlsx - citation: U.S. Bureau of Economic Analysis, "SAINC35 Personal current transfer receipts" (accessed Thursay, March 7, 2024) 
+
+Table6.csv - cleaned, modified and converted Table6.xlsx into a 'csv' file
